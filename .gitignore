@@ -1,0 +1,14 @@
+# Python venv
+.venv/
+
+# Huge CSVs that exceed GitHub limits
+task1_all_pull_request.csv
+task4_pr_commit_details.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
